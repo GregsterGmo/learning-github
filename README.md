@@ -7,3 +7,13 @@ We need it to stop using the file system to be our version control
 We need it to get with the times
 
 Here we go - first edit. Not going to let the shit wifi stop me now. :)
+
+## About Me
+I like coffee, code, and knowledge management. 
+
+### Current Skills
+Executive leadership
+Strategy Facilitation
+Support + Services Leadership
+Family Man
+Gym Rat Wannabe
